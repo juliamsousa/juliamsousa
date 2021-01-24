@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**juliamsousa/juliamsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Julia, a Developer and Computer Science Grad Student from Brasil. I'm always looking forward to learning something new and coding cool stuff.
 
-Here are some ideas to get you started:
+About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Mobile App using React-Native 
+- 🌱 I’m currently learning Javascript, React Native and Node JS
+- 🤔 I’m looking for help with Prototypeing and UX/UI
+- 💬 Ask me about C++ and University stuff
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: i enjoy riding horses on my free time 
+
+
+## 📫 How to reach me: 
+
+[Linkedin](https://www.linkedin.com/in/julia-miranda-sousa/)
+
+[Gmail](mailto:juliaeduardasousa@gmail.com)
