@@ -6,7 +6,7 @@ About me:
 
 - 🔭 I’m currently working on a Mobile App using React-Native 
 - 🌱 I’m currently learning Javascript, React Native and Node JS
-- 🤔 I’m looking for help with Prototypeing and UX/UI
+- 🤔 I’m looking for help with Prototyping and UX/UI
 - 💬 Ask me about C++ and University stuff
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i enjoy riding horses on my free time 
