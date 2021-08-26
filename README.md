@@ -16,12 +16,7 @@
 
 - ⚡ Fun fact **I enjoy riding horses on my freetime.**
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliamsousa&show_icons=true&locale=en&layout=compact" alt="juliamsousa" /></p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliamsousa&show_icons=true&locale=en" alt="juliamsousa" /></p>
-
-
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliamsousa&show_icons=true&locale=en" alt="juliamsousa" /></p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -74,3 +69,4 @@
   
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
+
