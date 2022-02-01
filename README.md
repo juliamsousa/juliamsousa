@@ -16,12 +16,14 @@
 
 - ⚡ Fun fact **I enjoy riding horses on my freetime.**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliamsousa&show_icons=true&locale=en" alt="juliamsousa" /></p>
-
 <h2 align="left">Connect with me:</h2>
-<p align="left">
+
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="julia-miranda-sousa" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/julia-miranda-sousa?trk=profile-badge">Julia Miranda</a></div>  
+     
+
 <a href="https://www.linkedin.com/in/julia-miranda-sousa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julia-miranda-sousa/" height="30" width="40" /></a>
-</p>
+
 
 
 <h2 align="left">Languages and Tools:</h2>
@@ -57,3 +59,4 @@
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
