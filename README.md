@@ -21,7 +21,21 @@
 <h3 align="left">University:</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+
+https://github.com/juliamsousa/Programming-101
+
+https://github.com/juliamsousa/sudoku-plus-plus
+
+https://github.com/juliamsousa/mmu-plus-plus
+
+https://github.com/juliamsousa/paa-avaliacao-empirica
+
+https://github.com/juliamsousa/paa-divisao-e-conquista
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+
+https://github.com/juliamsousa/object-oriented-programming
+
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank">
   
   
