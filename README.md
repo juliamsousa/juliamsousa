@@ -40,5 +40,5 @@
 
 ## 🦄 <a href= 'https://github.com/juliamsousa/raleigh-website'>Raleigh Website - Developed With React<a>
 ##  📱 <a href= 'https://github.com/juliamsousa/heuristic-evaluation'>Heuristic Evaluation - Developed With Figma<a>
-##  📝 <a href= 'https://github.com/juliamsousa/heuristic-evaluation'>Vensim - Developed With C++<a>
+##  📝 <a href= 'https://github.com/juliamsousa/my-vensim'>Vensim - Developed With C++<a>
 ##  🎴 <a href= 'https://github.com/juliamsousa/sudoku-plus-plus'>Sudoku - Developed With C++<a>
