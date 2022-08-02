@@ -38,7 +38,15 @@
 
 # Some Cool Projects ######
 
-## 🦄 <a href= 'https://github.com/juliamsousa/raleigh-website'>Raleigh Website - Developed With React<a>
-##  📱 <a href= 'https://github.com/juliamsousa/heuristic-evaluation'>Heuristic Evaluation - Developed With Figma<a>
-##  📝 <a href= 'https://github.com/juliamsousa/my-vensim'>Vensim - Developed With C++<a>
-##  🎴 <a href= 'https://github.com/juliamsousa/sudoku-plus-plus'>Sudoku - Developed With C++<a>
+
+## 🦄 Raleigh Website - Developed With React
+[![Raleigh Website](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=raleigh-website)](https://github.com/juliamsousa/raleigh-website)
+
+##  📱 Heuristic Evaluation - Developed With Figma
+[![Heuristic Evaluation](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=heuristic-evaluation)](https://github.com/juliamsousa/heuristic-evaluation)
+
+##  📝 My Vensim - Developed With C++
+[![My Vensim](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=my-vensim)](https://github.com/juliamsousa/my-vensim)
+
+##  🎴 Sudoku - Developed With C++
+[![Sudoku ++](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=sudoku-plus-plus)](https://github.com/juliamsousa/sudoku-plus-plus)
