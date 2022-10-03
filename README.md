@@ -53,41 +53,15 @@
 [![Sudoku ++](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=sudoku-plus-plus)](https://github.com/juliamsousa/sudoku-plus-plus)
 ---------------------------------------------------------------------->
 
-<table>
-<tr>
-<th> 🦄 Raleigh Website - Developed With React </th>
-<th> 📱 Heuristic Evaluation - Developed With Figma </th>
-
-</tr>
- 
- <td>
-
-[![Raleigh Website](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=raleigh-website)](https://github.com/juliamsousa/raleigh-website)
-
-</td>
-<td>
+[![Raleigh Website](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=raleigh-website)](https://github.com/juliamsousa/raleigh-website) 
 
 [![Heuristic Evaluation](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=heuristic-evaluation)](https://github.com/juliamsousa/heuristic-evaluation)
 
-</td>
-<tr>
-
-<tr>
-<th> 📝 My Vensim - Developed With C++ </th>
-<th> 🎴 Sudoku - Developed With C++ </th>
-<tr>
-
-
-<td>
 
 [![My Vensim](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=my-vensim)](https://github.com/juliamsousa/my-vensim)
 
-</td>
 
-<td>
 
 [![Sudoku ++](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=sudoku-plus-plus)](https://github.com/juliamsousa/sudoku-plus-plus)
 
-</td>
-</tr>
-</table>
+
