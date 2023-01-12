@@ -34,28 +34,3 @@
 
 <br/>
 <!--------------------------------------------------------------------------------------------------------------------------->
- 
-
-# Some Cool Projects ######
-
-<!-----------------------------------------------------
-
-## 🦄 Raleigh Website - Developed With React
-[![Raleigh Website](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=raleigh-website)](https://github.com/juliamsousa/raleigh-website)
-
-##  📱 Heuristic Evaluation - Developed With Figma
-[![Heuristic Evaluation](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=heuristic-evaluation)](https://github.com/juliamsousa/heuristic-evaluation)
-
-##  📝 My Vensim - Developed With C++
-[![My Vensim](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=my-vensim)](https://github.com/juliamsousa/my-vensim)
-
-##  🎴 Sudoku - Developed With C++
-[![Sudoku ++](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=sudoku-plus-plus)](https://github.com/juliamsousa/sudoku-plus-plus)
----------------------------------------------------------------------->
-
-[![Raleigh Website](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=raleigh-website)](https://github.com/juliamsousa/raleigh-website)  [![My Vensim](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=my-vensim)](https://github.com/juliamsousa/my-vensim)  
-
-
-[![Heuristic Evaluation](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=heuristic-evaluation)](https://github.com/juliamsousa/heuristic-evaluation)  [![Sudoku ++](https://github-readme-stats.vercel.app/api/pin/?username=juliamsousa&repo=sudoku-plus-plus)](https://github.com/juliamsousa/sudoku-plus-plus)
-
-
