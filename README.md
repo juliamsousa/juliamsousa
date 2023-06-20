@@ -5,7 +5,7 @@
 
  <br/>
  
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/39354498/181134384-beeb133f-31ea-4bc2-bf69-cae01681d522.gif" width="320" height="320" />
+[comment]: <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/39354498/181134384-beeb133f-31ea-4bc2-bf69-cae01681d522.gif" width="320" height="320" />
  
 - 🔭 I’m currently working on **Mobile Development**
 
